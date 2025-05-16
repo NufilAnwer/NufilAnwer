@@ -1,20 +1,46 @@
-## 👋 Hi there, I'm Nufil
+## 👋 Hey, I'm Nufil
 
-🎓 I'm a passionate **C++ programmer** and developer focused on building data-structure-rich academic projects and real-world simulations. I love designing complex systems using custom implementations — no STL, just raw logic and clean OOP.
-
-🔧 I specialize in:
-- 📌 C++ with a focus on **custom data structures** (Linked Lists, Queues, Stacks, BSTs)
-- 📚 Building full-fledged academic projects like **Solitaire**, **Gmail clones**, and **Airline Reservation Systems**
-- 🧠 Algorithm design and memory-efficient implementations
-- 🛠️ Teaching, mentoring, and preparing **ideal solutions** for student assignments
-
-🚀 Currently worked on:
-- ✈️ A full-featured **Flight Reservation System** using only linked lists, BSTs, and queues
-- ♠️ C++ conversion of the **Klondike Solitaire** game (no STL)
-- 📩 A Gmail-like **email manager** built with generic programming principles
-
-📫 Let's connect:
-- 🌐 [GitHub]https://github.com/NufilAnwer
-- 💡 Open to collaboration, mentorship, and academic contributions
+🎯 I'm a systems and  developer who loves building everything from low-level logic games to complete web platforms. I work extensively in **C++**, **NASM**, and modern **JavaScript stacks**, always striving for clean design and optimal performance.
 
 ---
+
+### 🛠️ Tech I'm Good At:
+
+#### ⚙️ Low-Level & Systems Programming
+- 🔢 **C++** (custom DS: Stack, Queue, DLL, BST — no STL!)
+- 🧩 **NASM x86 Assembly** (developed a **Sudoku Game** project)
+- 🃏 **Games & Simulations** – Klondike Solitaire in C++
+
+#### 🌐 Full Stack Web Development
+- 💻 **Frontend**: HTML5, CSS3, JavaScript, TypeScript
+- ⚙️ **Backend**: Node.js, Express.js
+- 🗄️ **Database**: MySQL
+- 🎯 **Web Projects**: Ready to build full web apps from scratch
+
+---
+
+### 💡 Projects I've Built:
+
+- ✈️ **Flight Reservation System (C++)** – Fully custom with BST, Queue, Linked Lists
+- ♠️ **Solitaire Game (C++)** – Object-oriented design with rule enforcement and stack logic
+- 🔢 **Sudoku Game (NASM)** – A playable, logic-based Sudoku implemented in pure x86 Assembly
+- 📩 **Gmail-like Mail System (C++)** – Email simulation using only Linked Lists and file I/O
+- 🌐 **Web Projects** – Ready to take on full-stack apps using Node, SQL, and modern frontend
+
+---
+
+### 🌱 Currently Learning & Exploring
+- 🧠 Advanced algorithm optimization
+- 📲 WebSockets & Real-time apps
+- 🔐 Web security & authentication
+- 📦 Docker & deployment pipelines
+
+---
+
+### 📫 Let's Connect
+- 💼 [GitHub]https://github.com/NufilAnwer
+- 📨 Always open to collaboration, academic projects, or freelance web work
+
+---
+
+> "Code is not just logic; it's a craft." – Nufil
