@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi there, I'm Nufil
 
-<!--
-**NufilAnwer/NufilAnwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a passionate **C++ programmer** and developer focused on building data-structure-rich academic projects and real-world simulations. I love designing complex systems using custom implementations — no STL, just raw logic and clean OOP.
 
-Here are some ideas to get you started:
+🔧 I specialize in:
+- 📌 C++ with a focus on **custom data structures** (Linked Lists, Queues, Stacks, BSTs)
+- 📚 Building full-fledged academic projects like **Solitaire**, **Gmail clones**, and **Airline Reservation Systems**
+- 🧠 Algorithm design and memory-efficient implementations
+- 🛠️ Teaching, mentoring, and preparing **ideal solutions** for student assignments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently worked on:
+- ✈️ A full-featured **Flight Reservation System** using only linked lists, BSTs, and queues
+- ♠️ C++ conversion of the **Klondike Solitaire** game (no STL)
+- 📩 A Gmail-like **email manager** built with generic programming principles
+
+📫 Let's connect:
+- 🌐 [GitHub]https://github.com/NufilAnwer
+- 💡 Open to collaboration, mentorship, and academic contributions
+
+---
