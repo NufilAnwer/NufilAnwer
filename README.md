@@ -38,7 +38,7 @@
 ---
 
 ### 📫 Let's Connect
-- 💼 [GitHub]https://github.com/NufilAnwer
+- 💼 [GitHub]https://github.com/NufilAnwer linkedin:https://www.linkedin.com/in/muhammad-nufil-anwer-01039131b/?originalSubdomain=pk
 - 📨 Always open to collaboration, academic projects, or freelance web work
 
 ---
