@@ -1,222 +1,164 @@
 # 👋 Hey, I'm Muhammad Nufil Anwer
 
-🎯 I'm a Computer Science student and full-stack developer passionate about building everything from low-level system applications to modern AI-powered web platforms. I enjoy solving complex problems, designing scalable systems, and creating projects that combine performance, logic, and clean architecture.
+<div align="center">
 
-Currently studying at **FAST-NUCES Lahore** and actively working on projects involving:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+NLP+Enthusiast;System-Level+Programmer;FAST-NUCES+Lahore+Student;Building+Scalable+Systems" />
 
-- 💻 Full Stack Web Development
-- 🤖 Artificial Intelligence & NLP
-- ⚙️ System-Level Programming
-- 🧠 Data Structures & Algorithms
-- 🗄️ Database Systems
-- 🔐 Authentication & Security
+</div>
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 About Me
 
-## ⚙️ Programming Languages
+🎯 I'm a **Computer Science student & Full Stack Developer** passionate about building scalable systems, AI-powered applications, and low-level software.
 
-- 🔹 C++
-- 🔹 JavaScript
-- 🔹 TypeScript
-- 🔹 Python
-- 🔹 SQL
-- 🔹 NASM x86 Assembly
+I enjoy turning complex ideas into real-world products with clean architecture and strong logic.
+
+🎓 Studying at **FAST-NUCES Lahore**
 
 ---
 
-## 🌐 Full Stack Development
+## ⚡ Tech Stack
 
-### 🎨 Frontend
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React.js
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-
-### 🗄️ Databases
-- MySQL
-- MongoDB
-- PostgreSQL
-- MSSQL
-- Supabase
-- NeonDB
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Assembly](https://img.shields.io/badge/NASM_x86-525252?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 ---
 
-## 🤖 AI / Machine Learning
+### 🌐 Full Stack Development
 
-- Machine Learning
-- NLP (Natural Language Processing)
-- TensorFlow / Keras
-- scikit-learn
-- XGBoost
-- HuggingFace Transformers
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🔐 Authentication & Tools
-
-- JWT Authentication
-- REST APIs
-- Git & GitHub
-- Docker
-- Postman
+### 🤖 AI / ML Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
 
 ---
 
-## 🛠️ Core CS Skills
+### 🔐 Tools & DevOps
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🧠 Core CS Skills
 
 - Data Structures & Algorithms
-- OOP Design
 - Operating Systems
-- DBMS
+- Database Systems (DBMS)
 - Computer Networks
-- Software Design
-- API Development
-- Authentication Systems
+- Object-Oriented Programming
+- Software Design Patterns
+- API Development & Security
 
 ---
 
-# 💡 Featured Projects
+## 🚀 Featured Projects
 
-## 🚗 CarMatrix — Premium Car Rental Ecosystem
+### 🚗 CarMatrix — Car Rental Ecosystem
+Full-stack car rental + peer-to-peer sharing system
 
-A full-stack car rental and peer-to-peer vehicle sharing platform.
-
-### Features:
-- Vehicle booking system
-- JWT authentication
-- MSSQL integration
-- Car listing management
-- Peer-to-peer vehicle sharing
-- Admin dashboard
-
-### Tech Used:
-`React.js` `Node.js` `Express.js` `MSSQL`
+**Tech:** React, Node.js, Express, MSSQL  
+✔ JWT Authentication  
+✔ Admin Dashboard  
+✔ Vehicle Management System  
 
 ---
 
-## 🐾 Meowketplace
+### 🐾 Meowketplace — Pet Ecosystem Platform
+Marketplace + pet care + vet booking system
 
-A modern pet marketplace and pet-care ecosystem where users can:
-
-- Buy & sell pets
-- Book daycare services
-- Connect with veterinarians
-- Manage pet profiles
-- Schedule appointments
-
-### Features:
-- JWT authentication
-- Pet listing & adoption system
-- Vet appointment booking
-- Pet daycare management
-- Responsive UI
-- Secure backend APIs
-
-### Tech Used:
-`React.js` `Node.js` `Express.js` `PostgreSQL` `NeonDB` `Supabase` `JWT`
+**Tech:** React, Node.js, PostgreSQL, Supabase  
+✔ Pet adoption system  
+✔ Vet appointment booking  
+✔ Daycare services  
 
 ---
 
-## 🧠 Medora Health Assistant
+### 🧠 Medora Health AI
+AI-powered healthcare assistant
 
-AI-powered healthcare platform integrating:
-
-- NLP Chatbot
-- Heart Disease Prediction
-- Stress Prediction
-- Lifestyle Advisor
-- Emotional AI Companion
-
-### Tech Used:
-`Python` `Streamlit` `MongoDB` `TensorFlow` `XGBoost`
+**Tech:** Python, TensorFlow, XGBoost, Streamlit  
+✔ Disease prediction  
+✔ NLP chatbot  
+✔ Mental health assistant  
 
 ---
 
-## ✈️ Flight Reservation System (C++)
-
-Custom-built airline management system using:
-
+### ✈️ Flight System (C++)
 - Binary Search Trees
-- Queues
-- Linked Lists
-- File Handling
-
-No STL used.
+- File handling system
+- Queue-based booking logic
 
 ---
 
-## ♠️ Solitaire Game (C++)
-
-Object-oriented implementation of Klondike Solitaire featuring:
-
-- Stack logic
-- Rule validation
-- Dynamic gameplay
-
----
-
-## 🔢 Sudoku Game (NASM x86 Assembly)
-
-A fully playable Sudoku game implemented in pure Assembly language.
-
-Focused on:
+### ♠️ Sudoku Game (Assembly)
+- Pure NASM x86 implementation
 - Low-level memory handling
-- Keyboard interaction
-- Logic implementation
 
 ---
 
-## 📩 Gmail-like Mail System (C++)
+## 🌱 Currently Exploring
 
-Email management simulation using:
-
-- Linked Lists
-- File I/O
-- Search & sorting logic
-
----
-
-# 🌱 Currently Exploring
-
-- 🔐 Web Security & Authentication
-- 📦 Docker & Deployment
-- ☁️ Cloud Computing
-- 📡 Real-Time Applications
-- 🧠 Advanced AI/NLP Systems
-- ⚡ Performance Optimization
+- Cloud Computing ☁️
+- System Design 🏗️
+- AI Agents 🤖
+- Scalable Backend Systems ⚙️
+- DevOps & Deployment 🚀
 
 ---
 
-# 📈 GitHub Goals
+## 📈 Goals
 
-- Build impactful full-stack applications
+- Build production-grade SaaS apps
 - Contribute to open source
-- Improve system design skills
-- Explore scalable AI systems
-- Learn production-level deployment
+- Master system design
+- Work on real-world AI systems
+- Improve scalability & architecture skills
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 - 💼 GitHub: [NufilAnwer](https://github.com/NufilAnwer)
 - 🔗 LinkedIn: [Muhammad Nufil Anwer](https://www.linkedin.com/in/muhammad-nufil-anwer-01039131b/)
-- 📨 Open to collaboration, freelance work, and innovative projects
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
-I enjoy building projects from scratch without relying heavily on libraries because it strengthens problem-solving and system-level understanding.
+> I enjoy building systems from scratch to understand how everything works under the hood — not just using libraries blindly.
 
 ---
 
-> “Code is not just logic; it's a craft.” — Nufil
+<div align="center">
+
+🔥 *"Code is not just logic — it's engineering with creativity."*
+
+</div>
