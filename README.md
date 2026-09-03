@@ -1,171 +1,183 @@
 <!-- ============================================================ -->
 
-<!--           MUHAMMAD NUFIL ANWER | GITHUB PROFILE             -->
+<!--        🚀 MUHAMMAD NUFIL ANWER | GITHUB PROFILE README      -->
 
 <!-- ============================================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=220&section=header&text=Muhammad%20Nufil%20Anwer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20MLOps%20Explorer%20%7C%20Systems%20Thinker&descAlignY=58&descSize=18"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Software+Systems+🚀;Exploring+AI%2C+Machine+Learning+%26+MLOps+🤖;Full+Stack+Developer+%7C+Backend+Engineer+🌐;Systems+%7C+Security+%7C+Distributed+Computing+⚡;Turning+Ideas+Into+Working+Products+💻" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,8,15,20,24&text=Muhammad%20Nufil%20Anwer&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Systems%20Thinker&descSize=19&descAlignY=60"/>
+
+# 👨‍💻 Welcome to My Digital Universe
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=⚡+Building+Software+That+Actually+Does+Things;🤖+Exploring+Artificial+Intelligence+%26+MLOps;🌐+Crafting+Modern+Full+Stack+Applications;⚙️+Going+Deep+Into+Systems+%26+Low-Level+Programming;🔐+Learning+How+To+Build+More+Secure+Systems;🚀+Build.+Break.+Learn.+Repeat." />
 
 <br/>
 
-<a href="https://github.com/NufilAnwer">
-  <img src="https://img.shields.io/github/followers/NufilAnwer?style=for-the-badge&logo=github&label=FOLLOWERS&color=00E5FF&labelColor=0D1117"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=NufilAnwer&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
-<img src="https://komarev.com/ghpvc/?username=NufilAnwer&style=for-the-badge&label=PROFILE+VIEWS&color=00E5FF"/>
+<a href="https://github.com/NufilAnwer">
+<img src="https://img.shields.io/github/followers/NufilAnwer?label=FOLLOWERS&style=for-the-badge&color=00C853&labelColor=111111&logo=github"/>
+</a>
 
 <a href="https://www.linkedin.com/in/muhammad-nufil-anwer-01039131b/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-00E5FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/MINDSET-SYSTEMS%20OVER%20SHORTCUTS-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/POWERED%20BY-COFFEE%20%26%20CURIOSITY-FFB703?style=flat-square"/>
 
 </div>
 
-<br/>
-
 ---
 
-# 🧬 About Me
+# 🧬 Who Am I?
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<div align="center">
+
+<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+</div>
 
 ```yaml
-name: Muhammad Nufil Anwer
-location: Lahore, Pakistan 🇵🇰
+👤 identity:
+  name: Muhammad Nufil Anwer
+  location: Lahore, Pakistan 🇵🇰
+  education: BS Computer Science @ FAST-NUCES
 
-education:
-  degree: BS Computer Science
-  university: FAST-NUCES Lahore
+🎯 mission:
+  - Build scalable software
+  - Understand systems deeply
+  - Explore AI engineering
+  - Create useful automation
+  - Never stop learning
 
-currently_exploring:
+⚡ currently_leveling_up:
+  - Full Stack Engineering
   - Artificial Intelligence
   - Machine Learning
   - MLOps
-  - Data Science
   - Information Security
   - Compiler Construction
   - Parallel & Distributed Computing
 
-engineering_interests:
-  - Scalable Backend Systems
-  - Cloud Infrastructure
-  - AI Systems
-  - Automation
-  - System Design
-  - Low-Level Programming
-
-philosophy: "Understand the system. Don't just use the abstraction."
+🧠 philosophy:
+  "Don't just learn frameworks.
+   Understand what happens underneath."
 ```
 
 <br clear="right"/>
 
 ---
 
-# ⚡ Engineering Universe
+# 🌌 Engineering Universe
 
 <div align="center">
 
 ```text
-                         SOFTWARE ENGINEER
-                                │
-          ┌─────────────────────┼─────────────────────┐
-          │                     │                     │
-          ▼                     ▼                     ▼
-      🌐 FULL STACK          🤖 AI / ML          ⚙️ SYSTEMS
-          │                     │                     │
-    React • Node.js       Python • ML         C++ • Assembly
-    APIs • Databases      MLOps • SHAP        OS • Compilers
-    Auth • SaaS           XGBoost • NLP       PDC • Networks
-          │                     │                     │
-          └─────────────────────┼─────────────────────┘
-                                │
-                                ▼
+                         🧠 SOFTWARE ENGINEER
+                                  │
+            ┌─────────────────────┼─────────────────────┐
+            │                     │                     │
+            ▼                     ▼                     ▼
+       🌐 FULL STACK          🤖 AI / ML           ⚙️ SYSTEMS
+            │                     │                     │
+      React • Node.js       Python • ML         C++ • Assembly
+      APIs • Databases      MLOps • SHAP        OS • Compilers
+      Auth • Cloud          Automation          PDC • Networks
+            │                     │                     │
+            └─────────────────────┼─────────────────────┘
+                                  │
+                                  ▼
                          ☁️ CLOUD & DEVOPS
-                                │
-                   Docker • CI/CD • Automation
+                                  │
+                     Docker • CI/CD • Automation
 ```
 
 </div>
 
 ---
 
-# 🛠️ Technology Arsenal
+# ⚡ Tech Stack
 
 <div align="center">
 
-## 🧠 Programming Languages
+### 🧠 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,c,java,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,c,java,bash&theme=dark&perline=12"/>
 
-<br/><br/>
+### 🌐 Full Stack
 
-## 🌐 Full Stack Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark&perline=12"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark"/>
+### 🗄️ Databases & Backend
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark&perline=12"/>
 
-## 🗄️ Databases
+### 🤖 AI / ML
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=12"/>
 
-<br/><br/>
+### ⚙️ DevOps & Tools
 
-## 🤖 AI & Data Science
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vscode&theme=dark&perline=12"/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark"/>
+</div>
 
-<br/><br/>
+<br/>
 
-## ⚙️ DevOps & Tools
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vscode&theme=dark"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🤖 AI • Machine Learning • Data Science
+# 🤖 Artificial Intelligence & Machine Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-00E5FF?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
-<img src="https://img.shields.io/badge/MLOps-00E5FF?style=for-the-badge&logo=mlflow&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data%20Science-00E5FF?style=for-the-badge&logo=pandas&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI-EXPLORER-9C27B0?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE-LEARNING-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOPS-AUTOMATION-00C853?style=for-the-badge&logo=mlflow&logoColor=white"/>
 
 </div>
 
-## 🧪 Machine Learning Lifecycle
+## 🧠 ML Engineering Journey
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                  MACHINE LEARNING                   │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  Data → EDA → Preprocessing → Feature Engineering  │
-│                   ↓                                 │
-│  Feature Selection → Model Training → Evaluation   │
-│                   ↓                                 │
-│  Hyperparameter Tuning → Explainability → Deploy   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│                  🤖 AI ENGINEERING                    │
+├───────────────────────────────────────────────────────┤
+│                                                       │
+│    DATA → FEATURES → MODELS → EVALUATION             │
+│                     ↓                                 │
+│        OPTIMIZATION → EXPLAINABILITY                 │
+│                     ↓                                 │
+│            MLOPS → DEPLOYMENT 🚀                     │
+│                                                       │
+└───────────────────────────────────────────────────────┘
 ```
 
-### 🔬 Areas of Focus
+### 🔬 Exploring
 
-* 🧹 Data Preprocessing
-* 📊 Exploratory Data Analysis
-* 🧬 Feature Engineering
-* 🎯 Feature Selection
+* 🧠 Machine Learning Fundamentals
 * 🌲 Ensemble Learning
-* 🔍 Model Evaluation
+* 🎯 Feature Engineering & Selection
 * ⚙️ Hyperparameter Optimization
-* 🧠 Explainable AI with SHAP
-* 📈 Classification Pipelines
+* 🔍 Model Evaluation
+* 🧩 Explainable AI (SHAP)
 * 🔤 NLP & Transformers
+* 🤖 AI Agents
+* 🔄 Production MLOps
 
 ---
 
@@ -177,89 +189,122 @@ philosophy: "Understand the system. Don't just use the abstraction."
 
 </div>
 
-### 🔄 MLOps
-
-* Reproducible ML Pipelines
-* Automated Model Training
-* Model Evaluation
-* Experiment Tracking
-* Feature Selection Pipelines
-* CI/CD for Machine Learning
-* Model Lifecycle Management
-
-### 🕷️ Intelligent Automation
-
-```text
-        WEBSITE
-           │
-           ▼
-   ┌───────────────┐
-   │ DATA SCRAPING │
-   └───────┬───────┘
-           │
-           ▼
-   CONTENT COMPARISON
-           │
-           ▼
-    CHANGE DETECTION
-           │
-           ▼
-  INTELLIGENT FILTERING
-           │
-           ▼
-  🔔 NOTIFICATION SYSTEM
-```
-
-**Tools:** `Selenium` • `BeautifulSoup` • `Python` • `GitHub Actions`
-
----
-
-# 🔐 Cybersecurity & Systems
-
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## 🔒 Information Security
+### 🔄 MLOps
 
-### Cryptography
-
-* AES
-* DES
-* Stream Ciphers
-* CTR Mode
-* Diffie-Hellman
-* Frequency Analysis
-
-### Security Concepts
-
-* Authentication
-* Authorization
-* Access Control
-* Secure System Design
+* Reproducible Pipelines
+* Automated Training
+* Model Evaluation
+* Experiment Tracking
+* CI/CD
+* Model Lifecycle
 
 </td>
 
 <td width="50%" valign="top">
 
-## ⚙️ Systems Engineering
+### 🕷️ Automation
 
-### Exploring
+* Selenium
+* BeautifulSoup
+* Web Monitoring
+* Change Detection
+* Scheduled Workflows
+* Smart Notifications
+
+</td>
+</tr>
+</table>
+
+### ⚡ Intelligent Automation Flow
+
+```text
+🌐 WEBSITE
+    │
+    ▼
+🕷️ EXTRACT
+    │
+    ▼
+🔎 COMPARE
+    │
+    ▼
+⚡ DETECT CHANGES
+    │
+    ▼
+🧠 FILTER INTELLIGENTLY
+    │
+    ▼
+🔔 NOTIFY
+```
+
+---
+
+# 🔐 Cybersecurity
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SECURITY-EXPLORER-FF1744?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/CRYPTOGRAPHY-LEARNING-7C4DFF?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+
+</div>
+
+```text
+              🔐 INFORMATION SECURITY
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+        ▼               ▼               ▼
+   CRYPTOGRAPHY     ACCESS CONTROL    NETWORK
+        │               │               │
+    AES • DES       Auth • AuthZ      Security
+    Diffie-Hellman  Permissions       Protocols
+    Stream Ciphers
+```
+
+### 🔒 Topics
+
+`AES` • `DES` • `CTR Mode` • `Stream Ciphers` • `Diffie-Hellman`
+
+`Authentication` • `Authorization` • `Access Control` • `Secure Design`
+
+---
+
+# ⚙️ Systems & Low-Level Engineering
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SYSTEMS-ENGINEERING-00B8D4?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOW--LEVEL-C%2B%2B%20%7C%20ASM-FF5722?style=for-the-badge"/>
+
+</div>
+
+```text
+                    ⚙️ SYSTEMS
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+    OPERATING         COMPILERS       ARCHITECTURE
+    SYSTEMS               │                │
+        │                 ▼                ▼
+    Memory Mgmt        Flex & Regex      x86 Assembly
+    Processes          Lexical Analysis  Registers
+    Scheduling         Tokenization      Memory
+```
+
+### 🧩 Exploring
 
 * Operating Systems
-* Memory Management
 * Computer Architecture
-* x86 Assembly
+* Memory Management
+* NASM x86 Assembly
 * Compiler Construction
 * Lexical Analysis
 * Flex
 * Regular Expressions
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -267,107 +312,115 @@ philosophy: "Understand the system. Don't just use the abstraction."
 
 <div align="center">
 
-```text
-                   COMPUTATIONAL POWER
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-          PARALLEL                   DISTRIBUTED
-             │                           │
-       ┌─────┴─────┐               ┌─────┴─────┐
-       │           │               │           │
-      SIMD        MIMD           Cluster      Cloud
-       │           │               │           │
-      GPU       Multicore       Nodes       Services
-```
+<img src="https://img.shields.io/badge/PARALLEL-COMPUTING-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DISTRIBUTED-SYSTEMS-03A9F4?style=for-the-badge"/>
 
 </div>
 
-### Concepts
+```text
+                  ⚡ COMPUTATIONAL POWER
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+              ▼                         ▼
+         PARALLEL                  DISTRIBUTED
+              │                         │
+       ┌──────┴──────┐          ┌───────┴───────┐
+       │             │          │               │
+      SIMD          MIMD      CLUSTER        CLOUD
+       │             │          │               │
+      GPU        MULTICORE    NODES        SERVICES
+```
 
-`Amdahl's Law` • `Gustafson's Law` • `Karp-Flatt Metric` • `Flynn's Taxonomy`
+### 📚 Concepts
 
-`Shared Memory` • `Distributed Memory` • `GPU Computing` • `Scalability`
+* Amdahl's Law
+* Gustafson's Law
+* Karp-Flatt Metric
+* Flynn's Taxonomy
+* GPU Computing
+* Multicore Systems
+* Shared Memory
+* Distributed Memory
+* Scalability
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 Edge-Enabled UAVs for Autonomous Flight & Air Quality Forecasting
-
-> **Final Year Project — Edge AI × Autonomous Systems × Environmental Intelligence**
+## 🚁 Edge-Enabled UAVs for Autonomous Flight & Air Quality Forecasting
 
 <div align="center">
 
-```text
-       🚁 UAV SENSORS
-              │
-              ▼
-       ┌──────────────┐
-       │ EDGE DEVICE  │
-       │   AI MODEL   │
-       └──────┬───────┘
-              │
-              ▼
-       REAL-TIME DATA
-              │
-              ▼
-    AIR QUALITY FORECAST
-              │
-              ▼
-    AUTONOMOUS DECISION
-```
+<img src="https://img.shields.io/badge/FYP-EDGE%20AI-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UAV-AUTONOMOUS-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-FORECASTING-7C4DFF?style=for-the-badge"/>
 
 </div>
 
-**Focus:** Edge AI • Sensor Processing • Air Quality Forecasting • Machine Learning • UAV Computing
+> Combining **Edge AI**, **Autonomous Systems**, and **Environmental Intelligence**.
+
+```text
+        🚁 UAV SENSORS
+              │
+              ▼
+       ⚡ EDGE DEVICE
+              │
+              ▼
+       🤖 AI INFERENCE
+              │
+              ▼
+     🌍 ENVIRONMENT DATA
+              │
+              ▼
+    🧠 AUTONOMOUS DECISION
+```
+
+**Focus:** `Edge AI` • `Machine Learning` • `Sensor Processing` • `Autonomous Systems`
 
 ---
 
-## 📊 MLOps Activity Classification Pipeline
+## 🤖 MLOps Activity Classification Pipeline
 
-> End-to-end Machine Learning Pipeline using the **ExtraSensory Dataset**
+<div align="center">
+
+<img src="https://img.shields.io/badge/MLOPS-PIPELINE-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TOP--20-FEATURES-FF6D00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-AUTOMATION-7C4DFF?style=for-the-badge"/>
+
+</div>
 
 ```text
-RAW DATA
-   │
-   ▼
-EDA & ANALYSIS
-   │
-   ▼
-DATA CLEANING
-   │
-   ▼
-FEATURE ENGINEERING
-   │
-   ▼
-TOP-20 FEATURE SELECTION
-   │
-   ├── SelectKBest
-   ├── RFE
-   └── Random Forest Importance
-   │
-   ▼
-MODEL COMPARISON
-   │
-   ├── Logistic Regression
-   ├── Decision Tree
-   ├── Random Forest
-   ├── KNN
-   └── SVM
-   │
-   ▼
-HYPERPARAMETER TUNING
-   │
-   ▼
-FINAL MODEL 🚀
+📥 RAW DATA
+      │
+      ▼
+🧹 PREPROCESSING
+      │
+      ▼
+🧬 FEATURE ENGINEERING
+      │
+      ▼
+🎯 TOP-20 FEATURES
+      │
+      ├── SelectKBest
+      ├── RFE
+      └── Random Forest
+      │
+      ▼
+🤖 MODEL COMPARISON
+      │
+      ▼
+⚙️ HYPERPARAMETER TUNING
+      │
+      ▼
+🚀 FINAL MODEL
 ```
 
 ---
 
 ## 🚗 CarMatrix
 
-> Full-Stack Car Rental & Peer-to-Peer Vehicle Sharing Platform
+> Full-Stack Car Rental & Peer-to-Peer Vehicle Sharing Platform.
 
 <div align="center">
 
@@ -375,10 +428,10 @@ FINAL MODEL 🚀
 
 </div>
 
-### Features
+### ⚡ Features
 
 * 🔐 JWT Authentication
-* 👥 Role-Based Access Control
+* 👥 Role-Based Access
 * 📊 Admin Dashboard
 * 🚗 Vehicle Management
 * 📅 Rental Management
@@ -387,7 +440,7 @@ FINAL MODEL 🚀
 
 ## 🐾 Meowketplace
 
-> A complete ecosystem for pet services.
+> Complete digital ecosystem for pet services.
 
 <div align="center">
 
@@ -395,35 +448,25 @@ FINAL MODEL 🚀
 
 </div>
 
-### Features
-
-🐕 Pet Adoption • 🏥 Vet Booking • 🏠 Pet Daycare • 🛒 Marketplace
+`🐕 Pet Adoption` • `🏥 Vet Booking` • `🏠 Daycare` • `🛒 Marketplace`
 
 ---
 
-## 🤖 Medora Health AI
-
-> AI-powered intelligent healthcare platform.
+## ✈️ Flight Management System
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark"/>
 
 </div>
 
-```text
-USER INPUT
-     │
-     ▼
-AI PROCESSING
-     │
-     ├── Disease Prediction
-     ├── NLP Chatbot
-     └── ML Models
-     │
-     ▼
-INTELLIGENT INSIGHTS
-```
+> Built from scratch with custom data structures and algorithms.
+
+* 🌳 Binary Search Trees
+* 🎟️ Queue-Based Booking
+* 📁 File Handling
+* 🧩 Custom Data Structures
+* ⚡ Algorithmic Logic
 
 ---
 
@@ -431,37 +474,37 @@ INTELLIGENT INSIGHTS
 
 <div align="center">
 
-| 🤖 AI Agents         | ☁️ Cloud           | 🔄 MLOps        | 🏗️ System Design   | 🔐 Security      |
-| -------------------- | ------------------ | --------------- | ------------------- | ---------------- |
-| Autonomous Workflows | Infrastructure     | ML Pipelines    | Distributed Systems | Cryptography     |
-| Tool Usage           | Deployment         | Automation      | Scalability         | Secure Systems   |
-| LLM Systems          | Cloud Architecture | Model Lifecycle | Architecture        | Network Security |
+|     🤖 AI Agents     |    ☁️ Cloud    |     🔄 MLOps    |  🏗️ System Design  |    🔐 Security   |
+| :------------------: | :------------: | :-------------: | :-----------------: | :--------------: |
+| Autonomous Workflows | Infrastructure |   ML Pipelines  |     Architecture    |   Cryptography   |
+|     Tool Calling     |   Deployment   |    Automation   |     Scalability     |  Secure Systems  |
+|      LLM Systems     | Cloud Services | Model Lifecycle | Distributed Systems | Network Security |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Command Center
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NufilAnwer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=NufilAnwer&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NufilAnwer&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NufilAnwer&layout=compact&theme=radical&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NufilAnwer&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NufilAnwer&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievement Vault
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NufilAnwer&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NufilAnwer&theme=radical&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -471,7 +514,7 @@ INTELLIGENT INSIGHTS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NufilAnwer/NufilAnwer/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/NufilAnwer/NufilAnwer/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
@@ -484,62 +527,65 @@ while (alive)
 {
     learn();
     build();
-    fail();
+    breakThings();
     debug();
-    optimize();
+    improve();
+
     repeat();
 }
 ```
 
 <div align="center">
 
-### 💡 Don't memorize tools. Understand systems.
+> ### 💡 "Don't memorize tools. Understand systems."
 
-### ⚙️ Don't chase hype. Build fundamentals.
+> ### ⚡ "Don't chase hype. Build strong fundamentals."
 
-### 🚀 Don't just write code. Engineer solutions.
+> ### 🚀 "Don't just write code. Engineer solutions."
 
 </div>
 
 ---
 
-# 🎯 2026 Mission
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║          BUILD → LEARN → BREAK → IMPROVE            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+# 🎯 Mission Control
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Full%20Stack-Development-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Learning-7B2FF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps-Production-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-Architecture-FF6D00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_BUILD-NEW%20THINGS-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠_LEARN-DEEPLY-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💥_BREAK-COMFORT%20ZONES-FF1744?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_IMPROVE-CONTINUOUSLY-00C853?style=for-the-badge"/>
+
+<br/><br/>
+
+```text
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║         🚀 BUILD → LEARN → BREAK → IMPROVE        ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/NufilAnwer">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark"/>
+<img src="https://img.shields.io/badge/GitHub-NufilAnwer-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-nufil-anwer-01039131b/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Nufil%20Anwer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Today.;Learning+Every+Day.;Engineering+Tomorrow.;Let's+Build+Something+Extraordinary+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3500&pause=900&color=FF4081&center=true&vCenter=true&width=700&lines=Building+Today+⚡;Learning+Every+Day+🧠;Engineering+Tomorrow+🚀;Let's+Create+Something+Awesome+🔥"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:00E5FF,75:00C853,100:FFB703&height=150&section=footer"/>
